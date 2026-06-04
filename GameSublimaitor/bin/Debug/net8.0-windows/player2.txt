@@ -1,0 +1,2 @@
+Test
+Fire,Water,Wind,Earth,Steam,Mud,Sand

@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/../../../../../Desktop/Art/Thunder.png","C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/bin/Windows/Thunder.xnb","TextureProcessor","Texture2DContent",34377,100000085,2,1739175
+"C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/../../../../../Desktop/Thunder.png","C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/bin/Windows/Thunder.xnb","TextureProcessor","Texture2DContent",1337130,4194389,0,2225678
+"C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Victory.mp3","C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/bin/Windows/Victory.xnb","SongProcessor","SongContent",1211245,125,0,9499943
+"C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Win_Victory.png","C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/bin/Windows/Win_Victory.xnb","TextureProcessor","Texture2DContent",938157,6292261,0,1896394

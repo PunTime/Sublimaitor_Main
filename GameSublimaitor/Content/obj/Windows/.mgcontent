@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/../../../../../Desktop/Art/Thunder.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/../../../../../Desktop/Thunder.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Arena.gif</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Artefact.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Ash.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Backpack.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Boiler.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Book.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Brick.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Cloud.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Earth.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Exit.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Fire.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Fuse.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Gear.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Iron.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/LifeStone.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Logo.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Magnet.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Metal.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Mud.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/music.mp3</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Rock.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Sand.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Seting.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Start.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Steam.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Stone.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Table.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Victory.mp3</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Water.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Win_Victory.png</File>
+    <File>C:/Users/Rostislav/source/repos/GameSublimaitor/GameSublimaitor/Content/Wind.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Thunder.png</File>
+    <File>Thunder.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

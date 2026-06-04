@@ -1,0 +1,2 @@
+Player 1
+Fire,Water,Wind,Earth,Steam,Mud,Sand,Ash,Cloud,Brick,Stone,Metal,Thunder,Magnet,Artefact,LifeStone
