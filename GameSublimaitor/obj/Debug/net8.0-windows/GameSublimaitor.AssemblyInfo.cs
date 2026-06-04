@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameSublimaitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5ab5b2ddd44a95e0a128b799997ca6a0b31ec48")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameSublimaitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameSublimaitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

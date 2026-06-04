@@ -4165,11 +4165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rostislav\\source\\repos\\GameSublimaitor\\GameSublimaitor\\GameSublimaitor.csproj",
+      "projectUniqueName": "C:\\Users\\Rostislav\\Documents\\GitHub\\Sublimaitor_Main\\GameSublimaitor\\GameSublimaitor.csproj",
       "projectName": "GameSublimaitor",
-      "projectPath": "C:\\Users\\Rostislav\\source\\repos\\GameSublimaitor\\GameSublimaitor\\GameSublimaitor.csproj",
+      "projectPath": "C:\\Users\\Rostislav\\Documents\\GitHub\\Sublimaitor_Main\\GameSublimaitor\\GameSublimaitor.csproj",
       "packagesPath": "C:\\Users\\Rostislav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rostislav\\source\\repos\\GameSublimaitor\\GameSublimaitor\\obj\\",
+      "outputPath": "C:\\Users\\Rostislav\\Documents\\GitHub\\Sublimaitor_Main\\GameSublimaitor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

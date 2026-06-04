@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rkWLGljkQXg=",
+  "dgSpecHash": "g80ETZ4k0sk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rostislav\\source\\repos\\GameSublimaitor\\GameSublimaitor\\GameSublimaitor.csproj",
+  "projectFilePath": "C:\\Users\\Rostislav\\Documents\\GitHub\\Sublimaitor_Main\\GameSublimaitor\\GameSublimaitor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rostislav\\.nuget\\packages\\microsoft.netcore.app\\2.1.30\\microsoft.netcore.app.2.1.30.nupkg.sha512",
     "C:\\Users\\Rostislav\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.30\\microsoft.netcore.dotnetapphost.2.1.30.nupkg.sha512",
